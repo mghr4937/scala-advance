@@ -1,4 +1,4 @@
-package lecture.part2afp
+package excercises
 
 import scala.annotation.tailrec
 
